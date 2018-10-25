@@ -1,3 +1,4 @@
+//by macros
 #define opts(tfunc, dtype) \
 do{
   switch(dtype){
